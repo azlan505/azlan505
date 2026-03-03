@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-=====================================================
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=azlan505.azlan505&"  />
+</div>
+
+
 #### Skils (Still Studying)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,4 +40,25 @@ Here are some ideas to get you started:
 #### Another Skils
 
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
+###
+
+---
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Z.">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eu2miff72oknemxqavxcr7expm" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azlan505/azlan505/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azlan505/azlan505/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azlan505/azlan505/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
