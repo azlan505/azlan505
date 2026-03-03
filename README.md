@@ -1,7 +1,7 @@
 ## Hello!!
 ### I'm a Newbie Web Development 😁👋
 
-![shikimori](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpZXBzZG15MTQ5OTJzeXViajZjbnVmd3Fyd2RmbjJzeW5tdTQzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiC4TioVRIQbOC6Qyy/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpZXBzZG15MTQ5OTJzeXViajZjbnVmd3Fyd2RmbjJzeW5tdTQzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiC4TioVRIQbOC6Qyy/giphy.gif" alt="GIF Profil" style="max-width:100%; height:auto;" />
 
 
 
